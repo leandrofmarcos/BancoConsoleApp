@@ -1,0 +1,15 @@
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\bin\Debug\net6.0\BancoConsoleApp.exe
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\bin\Debug\net6.0\BancoConsoleApp.deps.json
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\bin\Debug\net6.0\BancoConsoleApp.runtimeconfig.json
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\bin\Debug\net6.0\BancoConsoleApp.dll
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\bin\Debug\net6.0\BancoConsoleApp.pdb
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.csproj.AssemblyReference.cache
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.AssemblyInfoInputs.cache
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.AssemblyInfo.cs
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.csproj.CoreCompileInputs.cache
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.dll
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\refint\BancoConsoleApp.dll
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.pdb
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\BancoConsoleApp.genruntimeconfig.cache
+C:\dev\live\00-UnitTest\Banco\BancoConsoleApp\obj\Debug\net6.0\ref\BancoConsoleApp.dll

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsole.Test\\BancoConsole.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsole.Test\\BancoConsole.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsole.Test\\BancoConsole.Test.csproj",
+        "projectName": "BancoConsole.Test",
+        "projectPath": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsole.Test\\BancoConsole.Test.csproj",
+        "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsole.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsoleApp\\BancoConsoleApp.csproj": {
+                "projectPath": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsoleApp\\BancoConsoleApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsoleApp\\BancoConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsoleApp\\BancoConsoleApp.csproj",
+        "projectName": "BancoConsoleApp",
+        "projectPath": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsoleApp\\BancoConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\live\\00-UnitTest\\Banco\\BancoConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
